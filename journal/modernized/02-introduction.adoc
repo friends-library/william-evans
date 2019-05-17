@@ -1,5 +1,6 @@
-== Introduction
+== Testimony
 
+[.chapter-subtitle--blurb]
 A Memorial of the Monthly Meeting of Friends of Philadelphia, for the Southern District,
 held Ninth Month 23rd, 1868, concerning William Evans.
 Approved by the Yearly Meeting of Friends held in Philadelphia, 1869.
@@ -42,8 +43,9 @@ aloud in the Holy Scriptures and the writings of Friends.
 On one occasion, when collected for that purpose,
 he was brought into much contrition by reading William
 Leddra`'s epistle written the day before his execution.
-"`It was,`" he says, "`an extraordinary visitation of heavenly love,
-the savor of which continued many days,`" producing a sense of his sinful,
+"`It was,`" he says,
+"`an extraordinary visitation of heavenly love, the savor of which continued many days,`"
+producing a sense of his sinful,
 impure condition; and fervent desires were raised after holiness.
 "`The Light of Christ shone clearly into my heart,`" he remarks,
 "`showing me that many of my habits were contrary to the Divine purity,
@@ -94,8 +96,8 @@ I was utterly unable to regain my faith in Christ,
 which had been an anchor to my soul in many tossings and tempests.`"
 For a long time he was kept in this condition,
 until he ceased searching books or striving to satisfy himself by argument.
-"`I looked up to my Heavenly Father,`" he remarks, "`but all was hid from me,
-and I wondered how it was that I should be
+"`I looked up to my Heavenly Father,`" he remarks,
+"`but all was hid from me, and I wondered how it was that I should be
 unable to believe in the Lord Jesus Christ who,
 I had been taught, and never had doubted, was the Savior.`"
 Through this distressing conflict he was kept steadfast and patient;
@@ -182,8 +184,7 @@ Church which his Divine Master designed for him.
 In the Twelfth month, 1811, he was married to Deborah,
 daughter of Aaron and Abigail Musgrave.
 This union did not long continue--his beloved
-wife being removed by death in the Sixth month,
-1815.
+wife being removed by death in the Sixth month, 1815.
 
 He had very clear openings into the character and qualifications of a minister of
 the Gospel several years before he was called to the service himself.
@@ -226,8 +227,9 @@ and the views he was again favored with of the humility and purity
 indispensably necessary for a minister and servant of Christ,
 raised the belief that the Divine hand was still at work.
 
-The language that perhaps "`this sickness was not unto death,
-but for the glory of God,`" raised a further hope that he was not cast off,
+The language that perhaps
+"`this sickness was not unto death, but for the glory of God,`"
+raised a further hope that he was not cast off,
 but that the Lord would again have mercy,
 and that it would prove the means of preparing
 him more acceptably to come up in his service.
@@ -450,5 +452,8 @@ and in being fervently engaged to be found ready when the summons came.
 His decease took place on the morning of the Twelfth of Fifth month, 1867;
 his redeemed spirit gently and peacefully leaving its suffering tenement of clay.
 
+[quote.scripture]
+____
 "`Blessed are the dead which die in the Lord from henceforth; yes, says the Spirit,
 that they may rest from their labors, and their works do follow them.`"
+____

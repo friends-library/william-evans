@@ -1,14 +1,15 @@
 == Chapter XVI
 
-1844
+[.chapter-synopsis]
+* 1844+++.+++ Changes taking place in Philadelphia Yearly Meeting
+* Lydia Dean
+* Philadelphia Quarterly Meeting
+* Concord and Western Quarterly Meetings
+* Haddonfield Quarterly Meeting
+* Religious visit to the Meetings in the Northwestern part of New York Yearly Meeting.
 
-Changes taking place in Philadelphia Yearly Meeting--Lydia Dean--
-Philadelphia Quarterly Meeting--Concord and Western Quarterly
-Meetings--Haddonfield Quarterly Meeting--Religious visit to the
-Meetings in the Northwestern part of New York Yearly Meeting.
-
-1844,
-Fifth month 25th. Sarah Emlen being about to embark for England on a religious visit,
+1844, Fifth month 25th.
+Sarah Emlen being about to embark for England on a religious visit,
 I called at her lodgings last evening, where I found several Friends.
 After conversing pleasantly for a time, we fell into silence,
 and several communications were made,
@@ -154,7 +155,7 @@ And yet, I trust, there is a body preserved, though it may not be numerous,
 who are united in the fellowship of suffering, for the same blessed cause;
 mourning and travailing together before the Lord,
 on account of the effects of a worldly spirit, which cannot bear the cross;
-even amongst some who would wish our religious Society
+even among some who would wish our religious Society
 to be more like the other professors of Christianity,
 in language, dress and manners.
 Ah! these have inflicted a severe blow upon us,
@@ -189,8 +190,8 @@ yet our dear friend and mother in Israel, Hannah Gibbons, had good service.
 
 20th. Was held the Quarterly Meeting for discipline.
 After some time, I felt it right to revive the apostolic injunction,
-"`Believe not every spirit, but to try the spirits,
-whether they are of God;`" and to hold forth a caution,
+"`Believe not every spirit, but to try the spirits, whether they are of God;`"
+and to hold forth a caution,
 to beware of the many spirits and voices that are abroad in Christendom;
 by which the grand enemy is seeking to allure
 from a steadfast subjection to the Lord Jesus,

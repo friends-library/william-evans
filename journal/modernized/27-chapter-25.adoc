@@ -1,8 +1,7 @@
 == Chapter XXV
 
-1851
-
-Religious visit to Meetings in Iowa, and other Meetings within Indiana Yearly Meeting.
+[.chapter-synopsis]
+* 1851+++.+++ Religious visit to Meetings in Iowa, and other Meetings within Indiana Yearly Meeting.
 
 1851, Sixth month 10th. Left home this morning, accompanied by my friend Joseph Elkinton,
 under feelings of much nearness of affection and
@@ -339,8 +338,7 @@ Divine help was extended, enabling me to relieve my mind and to depart in peace.
 4th. Rode to Garmel.
 The meeting was small.
 After waiting some time, the language presented,
-"`Blessed are they that hunger and thirst after righteousness,
-for they shall be filled.`"
+"`Blessed are they that hunger and thirst after righteousness, for they shall be filled.`"
 I was enabled to speak to such a state,
 recurring to the poor widow in the time of the famine,
 who was gathering some sticks to bake for herself and her son, the last pittance of meal,

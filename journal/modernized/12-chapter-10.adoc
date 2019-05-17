@@ -1,13 +1,15 @@
 == Chapter X
 
-1838--1839
+[.chapter-synopsis]
+* 1838--1839. Visit with a Committee to Muncy and Exeter Monthly Meetings
+* Accompanies his Wife on a religious visit to two Quarterly Meetings in New York
+* Causes of Discouragement
+* Death of his Father
+* His Character
+* Visit to Cain and Western Quarterly Meetings.
 
-Visit with a Committee to Muncy and Exeter Monthly Meetings--
-Accompanies his Wife on a religious visit to two Quarterly Meetings
-in New York--Causes of Discouragement--Death of his Father--His
-Character--Visit to Cain and Western Quarterly Meetings.
-
-Fifth month 12th. A committee, of which I was one,
+Fifth month 12th.
+A committee, of which I was one,
 having been appointed by the Quarterly Meeting,
 to visit Muncy and Exeter Monthly Meetings, and their branches, we set off this morning;
 and reaching Pottstown, half of the number attended the meeting there, on first-day,
@@ -68,7 +70,7 @@ she convinced two of them of the unlawfulness of war;
 and they afterwards joined the Society of Friends; and the wife of one of them,
 we were informed, had appeared in the ministry.
 Our feelings were much interested in this place and people,
-and we felt hopes that truth would spread amongst them,
+and we felt hopes that truth would spread among them,
 and their condition in many respects become improved.
 
 21st. On second-day morning we resumed our wagon
@@ -156,7 +158,8 @@ The review of this journey affords peace;
 for I believe we did endeavor to fulfill our mission according to the ability granted,
 and to avoid giving offense on any occasion.
 
-Sixth month 11th. The streams of Divine life feel much blocked up, by some secret cause;
+Sixth month 11th.
+The streams of Divine life feel much blocked up, by some secret cause;
 so that mourning and heaviness have been my portion for some days past.
 In addition to this, trade is much depressed;
 which renders the means of subsistence more uncertain.
@@ -194,7 +197,8 @@ to prove the love and allegiance of his children,
 and to humble them under a feeling of their nothingness,
 and lack of all things without Him.
 
-Seventh month 1st. Notwithstanding the warmth of the weather,
+Seventh month 1st.
+Notwithstanding the warmth of the weather,
 and the number of members absent in the country, our morning meeting was large;
 and my wife was led to speak to the states of many present,
 in a feeling and affecting manner.
@@ -255,8 +259,8 @@ to occupy them under their Lord`'s guidance and direction; following Him in fait
 
 In the Quarterly Meeting, on sixth-day,
 I stood up with the injunction to one of the ancient churches,
-and which is applicable to some in the present day: "`Be watchful,
-and strengthen the things which remain that are ready to die;
+and which is applicable to some in the present day:
+"`Be watchful, and strengthen the things which remain that are ready to die;
 for I have not found your works perfect before God.`"
 To be qualified to strengthen others,
 we must be sensible of our own weakness and imperfections;
@@ -331,14 +335,14 @@ enjoying the calm of peaceful poverty, yet well satisfied that I went.
 
 25th. Yesterday my wife and myself attended Frankford Monthly Meeting, held at Germantown.
 It was a day of Divine favor; the blessed Head of the Church qualifying us both,
-to preach the Gospel to the weary and tried amongst them, and to the younger members;
+to preach the Gospel to the weary and tried among them, and to the younger members;
 inviting them, under the influence of heavenly love,
 to obey the discoveries of the light of Christ, and taking his yoke upon their necks,
 to follow Him whithersoever He leads.
 
 From the state of many meetings,
 there is reason to fear a declension from the life and
-power of religion amongst us is taking place.
+power of religion among us is taking place.
 Death is removing the older members, and comparatively few of the younger,
 appear to be coming forth in dedication to the work of the Lord.
 Unless the Head of the church turns his hand upon sons and daughters,
@@ -552,7 +556,7 @@ and ended with thanksgiving for His continued mercy,
 and prayer for the help of those who had been made sensible of it.
 
 The Monthly Meeting of Sadsbury, held today, the 5th, was large.
-To deliver close doctrine amongst our Friends is a trial;
+To deliver close doctrine among our Friends is a trial;
 but sometimes the danger of resting in an outside show of religion,
 while the heart is unchanged, makes it necessary to search Jerusalem as with candles;
 and to call upon the men of Israel to renew the examination of themselves,
@@ -577,7 +581,7 @@ visited his relative Edith Edge and her daughter, who were at home.
 It was refreshing to find there are those, in many places,
 whose minds are in good measure imbued with the love of Christ,
 and their conduct and appearance circumspect.
-From amongst these we hope to see faithful soldiers raised up,
+From among these we hope to see faithful soldiers raised up,
 who will not flinch from suffering and reproach; but, growing in grace and strength,
 will valiantly maintain the testimonies which our Holy
 Head communicated to us to hold forth in the world,
@@ -596,8 +600,8 @@ and not only treated me with much affection, but were a strength and comfort,
 from their staidness of mind, and deep indwelling with the Seed of Life in their hearts.
 
 On first-day morning attended London-Britain Meeting.
-The day was fine, and without notice, the members generally, with some not of us,
-convened.
+The day was fine, and without notice, the members generally,
+with some not of us, convened.
 The impossibility of the natural man comprehending Divine things;
 and the indispensable need of regeneration, to enable us to see the kingdom of God,
 were subjects brought before me; and in the ability afforded, I labored with some there,

@@ -1,9 +1,8 @@
 == Chapter XXX
 
-1854--1855
-
-Religious Visit to the Yearly Meeting of Ohio,
-and some Meetings belonging to it--Resumption of Labors at Home.
+[.chapter-synopsis]
+* 1854--1855. Religious Visit to the Yearly Meeting of Ohio, and some Meetings belonging to it
+* Resumption of Labors at Home.
 
 1854, Seventh month 26th. Having had a prospect of visiting some meetings in Ohio,
 and attending the Yearly Meeting, if the way should open for it,
@@ -36,8 +35,18 @@ I thought it remarkable that she should feel so much for me,
 without knowing the exercise I was passing through.
 It was reviving and tendering to my spirit,
 and I still hoped the Lord would cast up a safe path for me to walk in.
-It is as follows: West Chester, Eighth month 11th, 1854.
+It is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Hannah Gibbons to William Evans
+
+[.signed-section-context-open]
+West Chester, Eighth month 11th, 1854.
+
+[.salutation]
 My Dear Friend and Brother in the Truth, William Evans:
 
 My mind has been so much in sympathy with you,
@@ -48,8 +57,8 @@ well knowing that it is not the path we would choose for ourselves,
 but that which leads to peace, far surpassing all mundane enjoyments.
 There is an oppressed seed within the compass of Ohio Yearly Meeting; who,
 I have no doubt, often go mourning on their way,
-when the secret language of their hearts may be, "`Spare your people, O Lord,
-and give not your heritage to reproach.`"
+when the secret language of their hearts may be,
+"`Spare your people, O Lord, and give not your heritage to reproach.`"
 These, I believe, will be glad of your company, the aid of your spirit, and, I trust,
 gospel labors.
 
@@ -69,8 +78,8 @@ yet as the clothing of your mind continues to be that of humility,
 I trust you will be enabled, from time to time,
 to put the armies of the aliens to flight; and the language of your heart, at seasons,
 will be, "`Thanks be to God who gives us the victory, through our Lord Jesus Christ.`"
-The encouraging language, recorded in Holy Writ, now arises, "`Fear not,
-for I am with you; be not dismayed, for I am your God.
+The encouraging language, recorded in Holy Writ, now arises,
+"`Fear not, for I am with you; be not dismayed, for I am your God.
 I will strengthen you, yes, I will help you, yes,
 I will uphold you with the right hand of my righteousness.`"
 
@@ -82,7 +91,10 @@ The foregoing may serve to let you know that you have the sympathy and unity of 
 almost worn-out sister; and in feelings of tenderness and affection,
 I remain your friend,
 
+[.signed-section-signature]
 Hannah Gibbons
+
+--
 
 21st. Second-day morning.
 My brother Charles, who had kindly offered to be my companion through Ohio,
@@ -166,7 +178,7 @@ which every living member ought to experience.
 Some things were set closely home,
 in that love and concern which seeks the everlasting welfare of every class;
 which I believe had something of an arousing effect.
-We believed there were honest-hearted ones preserved amongst them,
+We believed there were honest-hearted ones preserved among them,
 who are sincerely concerned for the right support of the cause and testimonies of Christ,
 and feel for the low estate of others, and on account of their unfaithfulness.
 I had some service there to my own satisfaction and peace.
@@ -255,8 +267,8 @@ Their proceeding was spoken against; but being repeatedly called upon to make a 
 one of them made an entry of their being reported by a
 part of the representatives for clerks,
 and that they were appointed; Friends, in the meantime, objecting to it.
-After sitting between three and four hours, the meeting adjourned,
-B+++.+++ Hoyle making the minute.
+After sitting between three and four hours,
+the meeting adjourned, B. Hoyle making the minute.
 
 Previously two women Friends inquired the hour to which men Friends would adjourn,
 but the meeting not having decided,
@@ -308,8 +320,8 @@ and trusting to his own righteousness.
 I told him the more we were brought to experience the sanctifying power of Divine Grace,
 the more humble would be our opinion of ourselves;
 and the more we should depend upon the Lord Jesus to make, and to keep us so.
-Christ said to the people, "`Be perfect, even as your Father, which is in heaven,
-is perfect.`"
+Christ said to the people,
+"`Be perfect, even as your Father, which is in heaven, is perfect.`"
 He loved the church and gave Himself for it,
 that He might present it to Himself a glorious church, not having spot or wrinkle,
 or any such thing, but that it should be holy and without blemish.
@@ -571,9 +583,8 @@ in which we were silent.
 
 16th. Was held the Quarterly Meeting for discipline.
 In the first meeting, I was engaged to revive the exhortation of the apostle,
-"`If we live in the Spirit,
-let us also walk in the Spirit;`" and to enforce the
-importance of showing by our conduct and conversation,
+"`If we live in the Spirit, let us also walk in the Spirit;`"
+and to enforce the importance of showing by our conduct and conversation,
 and the weightiness of our spirits, that we have been with the Lord,
 and that He is with us.
 It is the lack of bringing forth the fruits of the Holy Spirit,
@@ -797,11 +808,11 @@ praise to his great and ever-adorable Name.
 
 Eighth month 4th. Our Select Quarterly Meeting was held in silence,
 and felt to me to be a low time,
-little evidence of Divine consolation stirring amongst us.
+little evidence of Divine consolation stirring among us.
 
 5th. First-day morning, at our own meeting, I felt drawn to revive the injunction,
-"`Be still, and know that I am God;`" also the gracious declaration, "`I am God,
-and change not, therefore you sons of Jacob are not consumed.`"
+"`Be still, and know that I am God;`" also the gracious declaration,
+"`I am God, and change not, therefore you sons of Jacob are not consumed.`"
 The indispensable need of this inward stillness and constant waiting upon the Lord,
 that we may know Him, through the operation of his own Spirit upon our hearts,
 was held up; by which, in prayer to Him,

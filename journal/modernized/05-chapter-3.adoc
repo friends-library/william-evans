@@ -1,12 +1,22 @@
 == Chapter III
 
-1819--1823
-
-Waiting before the Lord--Visit to Ohio--Unsound Sentiments of Elias Hicks--
-Necessity for Watchfulness--Family Visit--Duty of Keeping in True Patience--Severe
-Illness--Desertion and Distress--Trial of Faith--Letter from a Friend--Acknowledged
-as a Minister--Yearly Meeting Discouraging Fears--Ranterism in New England--Spread
-of Unsound Doctrines--Testimony of J. Whitall--Reflections on the State of Society.
+[.chapter-synopsis]
+* 1819--1823. Waiting before the Lord
+* Visit to Ohio
+* Unsound Sentiments of Elias Hicks
+* Necessity for Watchfulness
+* Family Visit
+* Duty of Keeping in True Patience
+* Severe Illness
+* Desertion and Distress
+* Trial of Faith
+* Letter from a Friend
+* Acknowledged as a Minister
+* Yearly Meeting Discouraging Fears
+* Ranterism in New England
+* Spread of Unsound Doctrines
+* Testimony of J. Whitall
+* Reflections on the State of Society.
 
 1819,
 First month 10th. There is a material difference between what we call good thoughts,
@@ -458,7 +468,7 @@ under a belief that considerable change would be made among us in this place.
 Many who were as spiritual fathers and mothers would be removed;
 and he wished the younger part of the Society might manifest
 the desire Elisha did to continue with his master Elijah,
-so as to bear up their hands during their stay amongst us; and that as he did,
+so as to bear up their hands during their stay among us; and that as he did,
 we also should be engaged to desire that a double
 portion of the good Spirit which had influenced them,
 might rest on their successors.
@@ -567,7 +577,11 @@ and more faithful obedience to his will.
 After the above event,
 I received the following note from a tender-feeling Friend in the ministry:
 
-'`Dear Friend,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Dear Friend,
 
 If I was capable of feeling with you this morning,
 I supposed the opening closed unexpectedly;
@@ -589,9 +603,13 @@ will avail but little in the hour of trial.
 I feel my own littleness, and am aware that my experience is small,
 but desire your encouragement and preservation in the Truth.
 
+[.signed-section-closing]
 Your affectionate Friend,
 
+[.signed-section-signature]
 S+++.+++ H.
+
+--
 
 27th. Living near the river,
 I have often observed great care is taken by the seamen when they come into port,
@@ -697,8 +715,8 @@ I feel desirous to increase in dedication and obedience to Him;
 so that everything that denies may be escaped,
 and my heart be made and preserved a temple for his holiness to dwell in.
 
-1822,
-Second month 3rd. The Monthly Meeting having recommended me to the care of
+1822, Second month 3rd.
+The Monthly Meeting having recommended me to the care of
 the Quarterly Meeting of Ministers and Elders in the Eleventh month last,
 after holding the subject under its consideration,
 I was yesterday acknowledged a minister by that meeting,
@@ -921,7 +939,10 @@ a minister who was remarkably well versed in the doctrines of our religious Soci
 as set forth by Robert Barclay, and other ancient Friends,
 and a most firm and steadfast believer in them:
 
-"`Having attended the last Yearly Meeting at New York, I heard Elias Hicks declare,
+[.embedded-content-document.testimony]
+--
+
+Having attended the last Yearly Meeting at New York, I heard Elias Hicks declare,
 in a public testimony, in a large meeting in the North House,
 that '`The same power that made Christ a Christian must make us Christians;
 and the same power that saved Him must save us.`'
@@ -952,30 +973,33 @@ Seeing that we differed so widely in sentiment on these points,
 I proposed to him to have a few solid Friends, ministers and elders, convened,
 that a discussion might be had; but he would not consent thereto;
 saying that he was so confirmed in his sentiments, that he should persevere therein,
-let the consequences be what they might.`"
+let the consequences be what they might.
 
-Signed, Joseph Whitall.
+[.signed-section-signature]
+Joseph Whitall.
 
+[.signed-section-context-close]
 Philadelphia, Twelfth month 12th, 1822.
 
-On fifth-day, the 19th, E. Hicks attended Green Street Meeting;
+--
+
+On fifth-day, the 19th, Elias Hicks attended Green Street Meeting;
 said much that was very exceptionable,
 as it evidently tended to lower our Savior to an equality with his servants,
 and also to lessen the authority of the Holy Scriptures.
 
-Twelfth month 26th. E. Hicks left the city yesterday morning.
+Twelfth month 26th. Elias Hicks left the city yesterday morning.
 It seemed removing a weight of anxiety from our minds,
 and if his principles would vanish as easily, the relief would be still more complete.
 
-1823,
-First month 5th. It is mournful to reflect upon
-the present state of our religious Society,
+1823, First month 5th.
+It is mournful to reflect upon the present state of our religious Society,
 in many places.
 While there is preserved a large body of substantial Friends, many others,
 deeply immersed in the love of the world, the desire of ease and outward greatness,
 and lacking in religious depth, are degenerated from that purity of heart,
 and well-founded zeal for the support of our principles and Christian testimonies,
-which so conspicuously appeared amongst our primitive Friends.
+which so conspicuously appeared among our primitive Friends.
 
 Their principles, and testimonies were dearer to them than all temporal accommodations,
 liberty, or life itself.

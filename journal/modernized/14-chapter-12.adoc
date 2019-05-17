@@ -1,11 +1,10 @@
 == Chapter XII
 
-1841
+[.chapter-synopsis]
+* 1841+++.+++ Religious Visit to North Carolina Yearly Meeting
 
-Religious Visit to North Carolina Yearly Meeting
-
-1841,
-Ninth month 17th. Having for some time believed it would be my duty to pay a
+1841, Ninth month 17th.
+Having for some time believed it would be my duty to pay a
 religious visit to the meetings of North Carolina and Virginia Yearly Meetings,
 I spread the subject before the Monthly and Quarterly Meetings,
 and obtained their certificates of unity and sympathy with me,
@@ -58,15 +57,16 @@ that the thoughts of the heart may be preserved in purity;
 seeking to stand prepared to do his will, whenever He may call for any service.
 Above all things, it is desirable to be kept in his fear,
 and clothed with a fervent travail for the exaltation of Christ`'s
-kingdom of holiness and truth amongst mankind universally.
+kingdom of holiness and truth among mankind universally.
 Alas! what wickedness abounds in the earth; and in these Southern States,
 the crime of slavery.
 The appearance of the man and the child of color,
 fills me with distress and mourning for his degradation,
 and the sins of his unrighteous master.
 
-Something requiring the attention of a smith about the carriage, after he +++[+++a colored man]
-had completed it, I asked him if he carried on the business for himself?
+Something requiring the attention of a smith about the carriage,
+after he +++[+++a colored man] had completed it,
+I asked him if he carried on the business for himself?
 He replied, "`No; but for the man who gave some directions at the carriage;
 he gave eight hundred dollars for me, cash; a good deal,`" he said,
 "`when my life was not insured.`"
@@ -126,8 +126,8 @@ and made fit temples for the Lord, by his Spirit, to dwell in.
 The power of Truth rose into dominion, and many were contrited;
 and I hope it terminated to the refreshment of those who are right-minded.
 I was humbled under this renewed evidence of Divine condescension.
-We rode, after the meeting to Aaron H. Griffith`'s, about two miles from Winchester,
-and lodged.
+We rode, after the meeting to Aaron H. Griffith`'s,
+about two miles from Winchester, and lodged.
 
 27th. We have had clear weather three days, and having rested two,
 we set out this morning up the Winchester Valley, on our route to Tennessee;
@@ -431,7 +431,7 @@ has rested upon the honest concern and labor of Friends in many parts of our Soc
 in watching over and educating the youth; and in many instances, I trust,
 it will prepare the ground for the good seed which the Son of Man sows,
 and which will bring forth abundant fruit, under his blessing;
-and thus be instrumental in preserving many amongst us,
+and thus be instrumental in preserving many among us,
 who will be qualified to maintain the doctrines and testimonies of the Gospel,
 to the Lord`'s praise and the comfort and enlargement of the Church.
 
@@ -442,7 +442,7 @@ and being impressed with a belief that Friends are
 suffering great loss in letting the discipline fall,
 by passing over, in a very superficial manner, marriages accomplished in violation of it,
 the way opened to set forth the importance of the church government,
-established in the wisdom and authority of Christ, amongst us.
+established in the wisdom and authority of Christ, among us.
 It is only as the members individually live under the
 subjecting power of the cross of Christ,
 that they are prepared to support the ark of the testimonies,
@@ -475,7 +475,7 @@ or administered by those who have lost ground,
 through disobedience to the convictions of Divine light,
 and whose hands are thereby weakened, desolation spreads; wrong things prevail;
 and though something of the form may be left,
-the power of Godliness is lost amongst such a people.
+the power of Godliness is lost among such a people.
 The young members, who are at times favored with the visitations of the love of God,
 are very likely to be turned aside by the evil example of older ones,
 who seem to be the leaders; and thus such meetings continue to dwindle,
@@ -528,7 +528,7 @@ and few or none of the refinements or luxuries of civilized christian life.
 25th. We got to Anderson Johnson`'s at Hunting Creek;
 whose wife is a daughter of David Brooks, a minister, with whom my uncle,
 Thomas Scattergood, was traveling as companion, when he first appeared in the ministry.
-To find ourselves once more amongst those of the same religious profession,
+To find ourselves once more among those of the same religious profession,
 imparted pleasant sensations.
 This Friend, we were informed, was prosecuted for aiding a slave to make his escape;
 and though the charge was entirely unfounded, yet from false evidence,
@@ -610,7 +610,7 @@ Eleventh month 1st. Reached Salem in the evening, a settlement of the Moravians.
 The title to the property, comprising a large tract of many hundred acres, is vested,
 we were informed, in their bishop.
 The land is leased out, so that it cannot go into the hands of others,
-and they suffer none of any other profession to settle amongst them.
+and they suffer none of any other profession to settle among them.
 The person who keeps the large and commodious hotel where we stayed, we were told,
 is the only exception.
 
@@ -728,7 +728,7 @@ If this period is suffered to pass, they may grow up in ignorance,
 and never be of that service in society which they ought to be.
 
 A hope was entertained that the Boarding School would continue to be supported,
-and its benefits be extended amongst the youth of this Yearly Meeting.
+and its benefits be extended among the youth of this Yearly Meeting.
 Making our home at the schoolhouse,
 gave us an opportunity of mingling with the committees;
 and being invited to sit with one appointed to consider the expediency of
@@ -949,7 +949,7 @@ In the afternoon, we rode to Marlborough.
 
 We attended the meeting at Marlborough, being first-day;
 in which the state of things felt to be low.
-It appeared proper to sound an alarm amongst them,
+It appeared proper to sound an alarm among them,
 lest they become swallowed up by the world,
 and lost in a state of indifference to the work of their own salvation,
 and the support of the cause of Christ.

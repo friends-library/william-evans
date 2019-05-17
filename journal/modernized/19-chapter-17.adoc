@@ -1,8 +1,7 @@
 == Chapter XVII
 
-1845
-
-Continuation of Visit in New York State.
+[.chapter-synopsis]
+* 1845+++.+++ Continuation of Visit in New York State.
 
 1845, First month 1st. This morning we rose early,
 and set out to visit a small meeting at Ellery, about forty-five miles southwest;
@@ -310,7 +309,7 @@ took very kind care of us.
 15th. Attended the Select Preparative Meeting, and on the 16th,
 the Monthly Meeting of Yonge Street.
 The latter was a large collection of Friends;
-amongst whom I had a close testimony on the degeneracy of many, who, like Ephraim,
+among whom I had a close testimony on the degeneracy of many, who, like Ephraim,
 have joined themselves to idols; and whose strength strangers have devoured,
 and they know it not.
 The eager pursuit of wealth, has so absorbed the time and energies of many,
@@ -434,8 +433,8 @@ and take his name from our religious Society.
 
 I felt myself in a low state, and did not know how the meeting,
 which had been appointed here, would be got through.
-But after sitting down, the language passed through my mind, "`The same Lord over all,
-is rich unto all that call upon Him.`"
+But after sitting down, the language passed through my mind,
+"`The same Lord over all, is rich unto all that call upon Him.`"
 Again, "`Call upon me in the day of trouble, and I will deliver you,
 and you shall glorify me;`" and faith sprang a
 little in my heart that He would not forsake,
