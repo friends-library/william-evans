@@ -1,11 +1,11 @@
 == Chapter VII
 
-1835--1836
-
-Continuation of visit to Friends in New York and Vermont--Returns Home--Engages in
-a Periodical Publication of the Approved Writings of Friends--Attends the Yearly
-Meeting in New York--Religious visit to Ohio Yearly Meeting,
-and the Meetings belonging to it in the Western part of Pennsylvania.
+[.chapter-synopsis]
+* 1835--1836. Continuation of visit to Friends in New York and Vermont
+* Returns Home
+* Engages in a Periodical Publication of the Approved Writings of Friends
+* Attends the Yearly Meeting in New York
+* Religious visit to Ohio Yearly Meeting, and the Meetings belonging to it in the Western part of Pennsylvania.
 
 On sixth-day, I attended the Monthly Meeting of Starksborough; composed of Montpelier,
 Lincoln, Creek and Starksborough Particular Meetings.
@@ -275,7 +275,7 @@ and to feel after him, if happily we may find Him;
 but if we pass the time in thinking our own thoughts,
 suffering the mind to range abroad among the objects of our worldly pursuits,
 we may come and go without receiving any benefit.
-I endeavored to relieve my mind amongst them.
+I endeavored to relieve my mind among them.
 We have now got through the meetings of Ferrisburg Quarter,
 with the exception of Farnham, a meeting in Canada,
 which we could not visit in time to reach Saratoga Quarter.
@@ -392,7 +392,7 @@ and through the Lord`'s goodness and condescension, matter was furnished,
 and the solemnizing power of Truth spread over the meeting.
 Strong desires prevailed in my mind, that all present might,
 through submission to the washings of regeneration, and by the precious blood of Christ,
-be found amongst the multitude that surround the throne of the Lord God, and the Lamb;
+be found among the multitude that surround the throne of the Lord God, and the Lamb;
 who shall ascribe blessing and honor,
 thanksgiving and high renown to Him that has redeemed them.
 We parted from many of our friends in near affection.
@@ -404,7 +404,7 @@ The prophetic description of the Messiah: "`Unto us a child is born,
 unto us a Son is given, and the government shall be upon his shoulder;
 and his name shall be called Wonderful, Counsellor, The mighty God,
 The everlasting Father, and The Prince of Peace;`" and the testimony of Peter,
-that there was no other name, under heaven, given amongst men whereby we must be saved;
+that there was no other name, under heaven, given among men whereby we must be saved;
 also that of Paul, that he had fought the good fight, kept the faith, etc,
 were brought into view, and salvation by faith in the Son and Sent of God,
 and obedience to Him, preached to the company.
@@ -436,8 +436,9 @@ He and his family received and entertained us very kindly.
 Their first-day meetings commence at two P. M.,
 in consequence of the Separatists keeping the house in the forenoon.
 We sat long in silence; until I supposed we should separate as we came;
-but the expression, "`The race is not to the swift,
-nor the battle to the strong;`" but they that hold out to the end shall be saved;
+but the expression,
+"`The race is not to the swift, nor the battle to the strong;`"
+but they that hold out to the end shall be saved;
 having frequently revived and presented,
 I was fearful of leaving the place without communicating it; and holding up to view,
 that those who had begun well, but again turned aside, became stumbling-blocks,
@@ -490,8 +491,8 @@ They were also cautioned against seeking the living among the dead;
 either in the lifeless forms which man has invented, or in any creaturely exertions,
 which they can perform in their own time and strength.
 Public vocal prayer always appears to me a very solemn act,
-in which I have felt a reluctance to engage; but feeling the spirit of supplication,
-I yielded to it,
+in which I have felt a reluctance to engage;
+but feeling the spirit of supplication, I yielded to it,
 and have rarely known sweeter access to the Throne of Grace than on this occasion.
 
 Eleventh month 25th. Attended Middlebury Monthly Meeting; which was quite small.
@@ -499,7 +500,7 @@ The view of such a remnant convened in that capacity, was disheartening;
 but it seemed to be my place to endeavor to strengthen Friends
 in the faithful discharge of their religious duties;
 that they might hold up a good light to others;
-and that the ark of the testimony may not fall to the ground amongst them.
+and that the ark of the testimony may not fall to the ground among them.
 
 Though it appeared improbable, when riding through the heavy snow,
 that we should be able to attend Coeymans Monthly Meeting,
@@ -518,8 +519,8 @@ and defer this all-important work to a future day,
 when their worldly business would admit of laying hold of it;
 trusting that then it could be entered into, and effected with more convenience,
 and with dispatch.
-The warning of the Apostle was revived: "`If the righteous scarcely be saved,
-where shall the ungodly and sinner appear?`"
+The warning of the Apostle was revived:
+"`If the righteous scarcely be saved, where shall the ungodly and sinner appear?`"
 and if judgment begin at the house of God,
 "`What shall the end be of them that obey not the gospel of God?`"
 showing that the salvation of the soul was not so light a thing,
@@ -580,8 +581,7 @@ E+++.+++ C.`'s, where we dined; and after a little opportunity,
 in which encouragement was offered to trust in the never-failing Helper of his people;
 who, having been with his children in six troubles, will not forsake them in the seventh;
 we proceeded towards the Creek.
-On our way,
-we stopped half an hour at the mansion of our
+On our way, we stopped half an hour at the mansion of our
 late honored friend and father in the Truth,
 Henry Hull, to take leave of his widow; to whom the language of sympathy was extended.
 We were permitted to unite together in a sense of the
@@ -642,7 +642,7 @@ They neglected the weightier matters of the law; judgment, mercy and faith;
 while they paid tithe of mint, and anise, and cummin; these ought they to have done,
 and not to leave the other undone.
 It was easy to practice these outward things, without any cross or mortification;
-and indeed by them, to gain popularity amongst men.
+and indeed by them, to gain popularity among men.
 Paul told the believers, that it was "`Not by works of righteousness which we have done,
 but according to his mercy, He saved us; by the washing of regeneration,
 and the renewing, of the Holy Ghost;
@@ -691,8 +691,8 @@ to embrace the visitation of Divine love; which seeks to save that which is lost
 as exemplified in the lost sheep, and the prodigal.
 It was a comfortable opportunity; in which I had cause for thankfulness to Him,
 who opens and shuts, when He pleases.
-C+++.+++ U. and wife met us at this meeting, and piloted us that evening to their house,
-at Chappaqua.
+C+++.+++ U. and wife met us at this meeting,
+and piloted us that evening to their house, at Chappaqua.
 
 8th. At Chappaqua Meeting, we were again favored with the presence of our Divine Master;
 qualifying to open the need we have of dispensations of humiliation;
@@ -769,7 +769,7 @@ and also for the hospitality of our friends throughout the journey.
 1836+++.+++ The Meeting for Sufferings of this Yearly Meeting, having, for a long time,
 been desirous that some mode might be adopted
 for spreading the approved works of Friends,
-more generally amongst the members, now extensively scattered in this country;
+more generally among the members, now extensively scattered in this country;
 it was suggested to my brother Thomas and myself,
 whether we could not undertake the work.
 After deliberating upon it, and no other Friends appearing to be willing to engage in it,
@@ -902,7 +902,7 @@ Near the close, the language of encouragement was held out to honest Friends,
 to put their trust in the Lord Jesus Christ, the leader and commander of his people.
 Trials had ever attended them.
 
-The Apostle admonished one of the churches, that even from amongst themselves,
+The Apostle admonished one of the churches, that even from among themselves,
 men would arise, speaking perverse things, to draw away disciples after them.
 Friends here would have their trials and difficulties;
 but those who dwelt under a sense of their inability to preserve themselves,

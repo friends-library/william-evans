@@ -1,12 +1,14 @@
 == Chapter XV
 
-1843--1844
-
-Religious visit to New York Yearly Meeting--Origin and Intention of
-the Book Store in Philadelphia--Visits to Various Meetings within his
-own Yearly Meeting--Religious visit to Indiana Yearly Meeting,
-and some of its Meetings--Visits to Friends`' Schools--
-Yearly Meeting--The Value of a Religious Life.
+[.chapter-synopsis]
+* 1843--1844.
+* Religious visit to New York Yearly Meeting
+* Origin and Intention of the Book Store in Philadelphia
+* Visits to Various Meetings within his own Yearly Meeting
+* Religious visit to Indiana Yearly Meeting, and some of its Meetings
+* Visits to Friends`' Schools
+* Yearly Meeting
+* The Value of a Religious Life.
 
 1843, Fifth month.
 I obtained a minute from the Monthly Meeting, and attended New York Yearly Meeting,
@@ -80,7 +82,7 @@ relying upon and being faithful to their Lord;
 and He would bless them and their steadfastness, to the help of others.
 The younger part were also invited to enlist under the banner of Christ Jesus,
 the Captain of salvation, that they might be prepared for service and usefulness here,
-and for an inheritance hereafter, amongst the saints in light.
+and for an inheritance hereafter, among the saints in light.
 I came away thankful for the renewed evidence that the Lord was gracious;
 still qualifying us, unworthy as we are, for his work, and going before,
 preparing the hearts of some, like Lydia of old, to receive the word preached.
@@ -133,8 +135,8 @@ The design is to spread our own principles as they have
 always been held and published by this Yearly Meeting;
 and not to give publicity or circulation to any other.
 
-Eighth month 19th. Last third-day, the 15th, I felt my mind turned to the North Meeting,
-where I accordingly went.
+Eighth month 19th. Last third-day, the 15th,
+I felt my mind turned to the North Meeting, where I accordingly went.
 A testimony was delivered to some, who, when they saw their state,
 felt they had need to confess their sins and implore forgiveness,
 if they expected to partake of the benefits of the mediation and atonement of Him,
@@ -188,8 +190,7 @@ in their respective allotments, with a single eye to their Divine Master;
 who will help and cause them to grow, in his strength, from stature to stature;
 though but few may be near to take them by the hand,
 and to cheer them on their heavenly journey.
-"`The righteous holds on his way,
-and he that has clean hands shall be stronger and stronger.`"
+"`The righteous holds on his way, and he that has clean hands shall be stronger and stronger.`"
 The dear children were tenderly counseled,
 and invited to take the yoke of the Lord upon them,
 and come up in the footsteps of his flock,
@@ -269,8 +270,8 @@ The company behaved respectfully; and some manifesting a disposition to converse
 it afforded an opportunity to explain the views of Friends,
 on slavery and other subjects.
 The passage was prolonged one day, by the dense fogs on the river;
-which made it necessary to come to, and fasten to the trees, near the water edge,
-every night.
+which made it necessary to come to, and fasten to the trees,
+near the water edge, every night.
 I often felt little capacity for conversation, and was shut up in silence, at times:
 being burdened with the light, and frothy and worldly spirits of most of the company.
 But I believed inward, mental suffering,
@@ -282,7 +283,7 @@ to hold on in the right way.
 
 After a tedious passage of three days, we landed on fifth-day morning, the 21st,
 at Cincinnati, and attended the regular meeting; which was owned by the Great Master,
-qualifying to labor amongst them in the love of the gospel;
+qualifying to labor among them in the love of the gospel;
 to show some that they had left their first love, and were gone into the earth;
 and some were getting into the air.
 I thought I perceived the advantage it was, to have been preserved, on the passage,
@@ -520,7 +521,7 @@ by following the direction of the Lord Jesus, to go to the pool of Siloam and wa
 And when the ten lepers were going to show themselves to the priest,
 in conformity with Christ`'s bidding, as they went, they were healed.
 
-Our dear friend S. Emlen,
+Our dear friend Sarah Emlen,
 having then a prospect of again spreading before
 her friends a concern which she had long felt,
 and once laid before her meetings, to pay a religious visit to England, Ireland, etc,
@@ -667,7 +668,8 @@ After she had spoken, my mind was impressed with the belief,
 that it would be right to open a little the inward and
 spiritual nature of the gospel dispensation;
 reviving the answer of our blessed Lord to the question,
-"`when the kingdom of God should come:`" "`The kingdom of God,`" said He,
+"`when the kingdom of God should come:`"
+"`The kingdom of God,`" said He,
 "`comes not with observation; neither shall they say, lo here,
 or lo there! for behold the kingdom of God is within you.`"
 The great liability to look abroad for that which is to be found within ourselves;

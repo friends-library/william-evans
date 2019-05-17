@@ -1,13 +1,24 @@
-== Journal of William Evans. Chapter I
+== Chapter I
 
-1787--1813
-
-Introduction--Parentage and Birth--School days--Apprenticeship--Divine Visitation--
-Religious Exercises--Notices of eminent Ministers--Views of the Church--Excursions
-from the City--Experience respecting true Faith--Enters into Business--Scruples
-respecting extensive Trade--Divine promise of a Sufficiency--Marriage--Reflections
-on visits to Watering Places--Visit from Susanna Home and T. Scattergood--War with
-Great Britain--Accompanies his Mother to Salem Quarterly Meeting.
+[.chapter-synopsis]
+* 1787--1813. Introduction
+* Parentage and birth
+* School days
+* Apprenticeship
+* Divine visitation
+* Religious exercises
+* Notices of eminent ministers
+* Views of the Church
+* Excursions from the city
+* Experience respecting true Faith
+* Enters into business
+* Scruples respecting extensive trade
+* Divine promise of a Sufficiency
+* Marriage
+* Reflections on visits to Watering Places
+* Visit from Susanna Horne and T. Scattergood
+* War with Great Britain
+* Accompanies his Mother to Salem Quarterly Meeting.
 
 For the purpose of commemorating the mercy and
 goodness of God extended to me from early life,
@@ -169,6 +180,9 @@ Our anxious parents frequently wrote us letters containing excellent advice,
 showing their religious concern for our welfare; of which the following are extracts:
 From my mother, dated Fifth month, 21, 1799:
 
+[.embedded-content-document.letter]
+--
+
 I hope my dear children you do not forget our anxious concern
 and solicitude for your good when present with us,
 and I trust it has not abated,
@@ -179,23 +193,31 @@ Be obedient to those who have the care over you, and kindly affectionate one to 
 Endeavor after stillness, and remember the many favors you receive;
 and may the reverent inquiry of your minds be,
 What shall I render unto the Lord for all his blessings?
-Your dear father set off this morning with Ruth
-A+++.+++ Rutter and Sarah Cresson to Rhode Island,
+Your dear father set off this morning with Ruth A. Rutter and Sarah Cresson to Rhode Island,
 and as he had not time to write, desired his love to be remembered to you,
 and that you would let us hear from you as often as you can.
 
 With desires for your preservation in the
 innocency and simplicity of the Truth I conclude.
 
+[.signed-section-closing]
 Your affectionate mother,
 
+[.signed-section-signature]
 Hannah Evans.
+
+--
 
 After my beloved father`'s return from his journey with E. A. Rutter and S. Cresson,
 he wrote us frequently--from one of his letters the following is taken:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 19th of Second month, 1800.
 
+[.salutation]
 My Dear Children,
 
 I have been much concerned on your account for some time past,
@@ -218,12 +240,22 @@ but let the fear of the Lord be ever present with you, and that will keep you ha
 and make you dear unto him and to all good people.
 
 Your mother joins me in near love to you both, desiring your welfare every way.
+
+[.signed-section-closing]
 Your loving father,
 
+[.signed-section-signature]
 Jonathan Evans.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, 21st of Ninth month, 1800.
 
+[.salutation]
 Dear Children,
 
 Feeling desirous at all times you may do well,
@@ -263,21 +295,28 @@ for in this watchful state your minds will often be tendered,
 and at times sincere petitions will ascend for preservation,
 and support in this world of vanity and trouble.
 
+[.signed-section-closing]
 Your affectionate father,
 
-Jona.
-Evans.
+[.signed-section-signature]
+Jonathan Evans.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Fifth month 6th, 1801.
 
+[.salutation]
 Dear Child,
 
 I received your letter dated 4th inst.,
 and was glad to hear of yourself and sister being in health,
 which is a blessing among the many received, we ought to be thankful for.
 
-Indeed,
-many are the obligations we are under to that
+Indeed, many are the obligations we are under to that
 bountiful hand from which all our blessings flow.
 Let us then evince our gratitude by endeavoring to love Him above all,
 and then we shall be afraid to offend Him in thought, word or deed.
@@ -290,7 +329,12 @@ or that would in any degree wound your own mind.
 Learn to love silence; and seek for strength,
 that you may be preserved in time of temptation.
 
-With love to yourself and sister, conclude your affectionate mother, Hannah Evans.
+With love to yourself and sister, conclude your affectionate mother,
+
+[.signed-section-signature]
+Hannah Evans.
+
+--
 
 My brother had been taken from the school at this time on account of his health,
 and one of my sisters introduced there--The above letter,
@@ -968,7 +1012,7 @@ and attended the meeting at Shrewsbury.
 
 At that time it was a place of little resort compared with what it has been since.
 To weakly or sick persons, sea air and bathing are doubtless often useful;
-but amongst the mixed companies that resort to these watering places,
+but among the mixed companies that resort to these watering places,
 there are many incitements to throw off the restraints of the cross,
 and to fall in with the current of fashion and dissipation,
 and the use of language and manners quite at variance with our religious profession.
@@ -992,7 +1036,7 @@ Much good has been conferred on that afflicted class since that day,
 who have been placed in it, and doubtless it had a right origin.
 
 First month 27th, 1813.
-Susanna Home from England,
+Susanna Horne from England,
 and Thomas Scattergood each opened in our Monthly
 Meeting a religious concern to visit the families,
 which was united with.
@@ -1021,14 +1065,14 @@ which was taken to Harrisburg by a committee appointed for that purpose.
 The bill was finally thrown out by the Senate, and of course did not become a law.
 
 Fifth month 7th. The sudden death of the Friend who had very
-faithfully waited on Susanna Home in her travels in this country,
+faithfully waited on Susanna Horne in her travels in this country,
 produced strong sensations among his friends and acquaintance.
 He had taken up his saddle-bags at his own house
 to set off in order to meet her in New Jersey,
 when he fell on the floor,
 having been previously sick at the stomach and complained of pain in the head;
 and though great efforts were made by several physicians, they were unable to revive him.
-Information of the afflicting event was communicated to Susanna Home,
+Information of the afflicting event was communicated to Susanna Horne,
 and she came to the city and attended the burial on the 9th, being first day.
 She knelt in supplication at the grave side,
 and Arthur Howell and Thomas Scattergood spoke

@@ -1,14 +1,13 @@
 == Chapter XIII
 
-1841--1842
-
-Continuation of Visit to North Carolina Yearly Meeting--Causes
-of Trial--Visit to Money Select Preparative Meeting.
+[.chapter-synopsis]
+* 1841--1842. Continuation of Visit to North Carolina Yearly Meeting
+* Causes of Trial
+* Visit to Money Select Preparative Meeting.
 
 Eleventh month 25th. Fifth-day, attended Holly Spring Meeting,
 composed of a large number of plain Friends; to whom the injunction of Christ,
-"`Take no thought saying, what shall we eat?
-what shall we drink?
+"`Take no thought saying, what shall we eat? what shall we drink?
 or wherewithal shall we be clothed?
 for after all these things do the Gentiles seek;
 for your Heavenly Father knows that you have need of all these things.
@@ -32,7 +31,7 @@ and I hoped some of the young ones would be aroused to increased devotion and ze
 
 The ignorance which prevails among some,
 and their indifference to the work of religion in their own hearts,
-and to the spreading of it amongst us, is truly lamentable.
+and to the spreading of it among us, is truly lamentable.
 They are so engrossed in the grovelling pursuit of earthly treasure,
 that they feel little or no interest in the concerns of their own religious society;
 neglecting their religious meetings, particularly Quarterly and Yearly Meetings;
@@ -50,7 +49,7 @@ laboring in the Master`'s cause; the number of such being small in this day.
 I believe we were mutually comforted in thus being thrown together.
 Next day attended the Quarterly Meeting; where a pretty large body of Friends,
 and a large number of others assembled.
-The great lack of practical religion amongst the professors of the name of Christ;
+The great lack of practical religion among the professors of the name of Christ;
 what that religion would lead to;
 and the blessed fruits which would be produced by it in the world;
 were largely treated on;
@@ -341,8 +340,8 @@ These views humbled me greatly, and my faith and hope were reduced low.
 But He, whose the cause is which I desired might not suffer, had compassion on me;
 and in the midst of my conflict gave me unexpectedly an
 intimation to stand up with the testimony:
-"`There is none other name under heaven given amongst men whereby we
-must be saved,`" but the name of Jesus Christ of Nazareth.
+"`There is none other name under heaven given among men whereby we must be saved,`"
+but the name of Jesus Christ of Nazareth.
 I was, at first, afraid to comply lest I was deceived; but in mercy it was repeated;
 and I arose, not knowing what I was to say further,
 and leaving it all to the Lord to supply the matter.
@@ -447,7 +446,7 @@ and formed connections for life, which have led them out of the Society,
 and proved a lasting injury.
 Some have, no doubt, removed from honest motives, and have prospered;
 yet it is not an evidence of redemption from the love of the world, to see Friends,
-the highest professing people amongst Christians, so ready to take wing,
+the highest professing people among Christians, so ready to take wing,
 and hasten after the valuable lands, recently obtained from the conquered natives;
 who are driven here and there, having scarcely any certain dwelling-place.
 The example of thirst for gain does not become a professedly self-denying people,
@@ -481,8 +480,8 @@ notice having been spread of our intention to be at Piney Woods,
 at the usual week-day meeting, a large company convened.
 I felt, as common for me, exceedingly empty,
 and my faith perhaps never lower at such a time; but after a time of waiting,
-the testimony of the holy apostle, was revived: "`Without faith,
-it is impossible to please God.`"
+the testimony of the holy apostle, was revived:
+"`Without faith, it is impossible to please God.`"
 We must not only believe that He is,
 but that He is a rewarder of them who diligently seek Him.
 Though I was so stripped, I believed it was my duty to rise with this testimony;
@@ -500,7 +499,7 @@ We had a meeting at Somerton, with Friends, and a few not professing with us,
 to some satisfaction.
 Next morning, being first-day, we rode over to Western Branch,
 and there met a little company; parts of two or three families of Friends;
-amongst whom there was some ability received, to show the unwillingness of man,
+among whom there was some ability received, to show the unwillingness of man,
 in his first nature, to submit to the restraints of the power of religion;
 and the consequence which must result to him in
 refusing to come under the yoke and cross of Christ.
@@ -539,13 +538,13 @@ The Master condescended to furnish ability to preach the gospel;
 showing that it is a dispensation of the spirit, life and power;
 to bring man out of his lost and sinful condition,
 and restore him into that in which Adam stood before he fell.
-Christ said of his sheep, "`I am come that they might have life,
-and that they might have it more abundantly.`"
+Christ said of his sheep,
+"`I am come that they might have life, and that they might have it more abundantly.`"
 He also promised the gift of the Comforter, the Spirit of Truth,
 who was with them and should be in them.
 And the Apostle declared, "`I am not ashamed of the gospel of Christ,
-for it is the power of God unto salvation, to every one that believes; to the Jew first,
-and also to the Greek.`"
+for it is the power of God unto salvation, to every one that believes;
+to the Jew first, and also to the Greek.`"
 It is not a dispensation of outward ceremonies, as the Jewish,
 which may be performed in the will and wisdom of man.
 You are not come unto the Mount that might be touched, etc,
@@ -666,8 +665,8 @@ and we hoped our tarriance might prove mutually advantageous;
 on parting the invitation was given to repeat our calls whenever we travelled that road.
 
 23rd. We resumed our carriage,
-and after traveling twenty-five miles through almost continued rain, we got to J. B.`'s,
-at Gravelly Run.
+and after traveling twenty-five miles through almost continued rain,
+we got to J. B.`'s, at Gravelly Run.
 The dark and rainy weather made the shelter of his commodious and well-secured house,
 and our friendly reception, doubly welcome.
 As there are but one member, and part of another family, besides his own,
@@ -861,8 +860,8 @@ and arrived at our homes, sixth-day evening,
 satisfied with this little act of dedication.
 
 Eighth month 10th. I went to Woodbury, and attended Salem Quarterly Meeting held there.
-After the Select Meeting, dined and took tea at Joseph Whitall`'s, who was in a frail,
-diseased state.
+After the Select Meeting, dined and took tea at Joseph Whitall`'s,
+who was in a frail, diseased state.
 Very few have passed through more trials than he has;
 in which he has been an excellent example;
 as well as in his undeviating faithfulness to the doctrines and testimonies of Friends.
