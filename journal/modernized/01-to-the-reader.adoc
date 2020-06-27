@@ -67,5 +67,9 @@ Charles Evans.
 Philadelphia, Tenth month, 1870.
 
 [.postscript]
+====
+
 The Journal having been examined by a Committee of the Meeting for Sufferings,
 its publication was approved by that meeting.
+
+====
