@@ -704,6 +704,7 @@ The Yearly Meeting was one of considerable exercise to our women Friends.
 During the week we had several religious opportunities; in one of them at our lodgings,
 my mind was so brought under exercise on account of some present,
 and the passage presenting,
+// lint-disable person-mismatch "you seems"
 "`If any man among you seems to be wise in this world let him first become a
 fool that he may be wise,`" that I felt constrained to revive it,
 with a short application.

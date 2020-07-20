@@ -559,6 +559,7 @@ you shall not enter into the kingdom of heaven.`"
 The indispensable need of self-reduction,
 and laying aside all reliance on our own wisdom and strength,
 that we may be fitted for membership in the church of Christ, was held forth among them.
+// lint-disable person-mismatch "you seems"
 "`If any man among you seems to be wise in this world,
 let him become a fool that he may be wise.`"
 We cannot enter the sheepfold but by Christ, the door; nor into the narrow way,
